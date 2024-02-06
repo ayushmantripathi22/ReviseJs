@@ -40,3 +40,10 @@ let ayushman = addTwoNumbers(7,8)
 let ayu= MultiplyTwoNumbers(2,2)
 console.log(`The total money given to ayushman is ${ayushman}`);
 console.log(`The total money given to ayu is ${ayu}`); 
+
+function DivideTwo(num1, num2){
+    return(num1/num2)
+}
+
+let results = DivideTwo(10,5)
+console.log(`The result of divided no is ${results}`);

@@ -47,3 +47,4 @@ function DivideTwo(num1, num2){
 
 let results = DivideTwo(10,5)
 console.log(`The result of divided no is ${results}`);
+
